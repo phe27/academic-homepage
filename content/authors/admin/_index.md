@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Pengpeng HE
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. in Geotechnical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Western University
+  url: "https://www.eng.uwo.ca/grc/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
