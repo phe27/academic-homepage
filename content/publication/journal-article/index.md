@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Géotechnique Letters*"
 publication_short: ""
 
-abstract: aa
+abstract: 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
