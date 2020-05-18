@@ -18,24 +18,24 @@ organizations:
   url: "https://www.eng.uwo.ca/grc/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include soil-structure interaction, offshore foundations and reliability-based design of geotechnical structures.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Offshore foundations
+- Soil-structure interaction
+- Reliability-based design of geotechnical structures
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Geotechnical Engineering
+    institution: Western University
+    year: 2020
+  - course: M.Eng. in Geotechnical Engineering
+    institution: China University of Mining and Technology
+    year: 2016
+  - course: B.Eng. in Civil Engineering
+    institution: China University of Mining and Technology
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
