@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "Undrained capacity of circular foundations under combined horizontal and torsional loads"
 authors:
 - admin
-- Pengpeng HE
-date: "2019"
+- Tim Newson
+date: "2019-12-02"
 doi: "https://doi.org/10.1680/jgele.19.00016"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019"
+publishDate: "2019-12-02"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +16,13 @@ publishDate: "2019"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Géotechnique Letters, 1*(1)"
+publication: "*Géotechnique Letters*"
 publication_short: ""
 
 abstract: aa
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -42,10 +42,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
