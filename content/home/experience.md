@@ -25,9 +25,10 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Research include:
   
   * Analysing
+  - aaa
   * Modelling
   * Deploying
   """
