@@ -28,7 +28,9 @@ date_format = "Jan 2006"
   Research include:
   
   * **VHMT failure envelopes for circular foundations with a zero-tension interface**
-    1. Analyzed VHMT failure envelops for different types of soils (e.g. clay & sand) and foundations (e.g. surface and embedded) under        combined VHMT loading using finite element analysis;
+    1. Analyzed VHMT failure envelops for different types of soils (e.g. clay & sand) and foundations (e.g. surface and embedded) under        combined VHMT loading using finite element analysis. For undrained soil conditions, the effects of soil strength heterogeneity, foundation embedment and surficial crust (i.e. crust shear strength and thickness) have been investigated. Fot drained soil conditions, cohesive-frictional soils are considered.
+    2. Developed 4-D analytical expressions for the VHMT failure envelope of shallow foundations.
+    3. 
   * Modelling
   * Deploying
   """
