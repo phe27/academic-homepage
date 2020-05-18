@@ -1,13 +1,13 @@
 ---
-title: "Undrained capacity of circular foundations under combined horizontal and torsional loads"
+title: "Dynamic response of a thawing soil around the tunnel under the vibration load of subway"
 authors:
 - admin
-- Tim Newson
-date: "2019-12-02"
-doi: "https://doi.org/10.1680/jgele.19.00016"
+- Zhendong Cui
+date: "2015-03"
+doi: "https://doi.org/10.1007/s12665-014-3596-8"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-12-02"
+publishDate: "2014-08-17"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: "2019-12-02"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Géotechnique Letters*"
+publication: "*Environmental Earth Sciences*"
 publication_short: ""
 
 abstract: 
@@ -26,7 +26,7 @@ abstract:
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
