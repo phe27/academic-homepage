@@ -11,4 +11,9 @@ external_link: http://example.org
 # image:
 #  caption: Photo by Toa Heftiba on Unsplash
 #  focal_point: Smart
+
+| Command           | Description                    |
+| ------------------| ------------------------------ |
+| `hugo`            | Build your website.            |
+| `hugo serve -w`   | View your website.             |
 ---
