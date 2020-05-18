@@ -1,13 +1,17 @@
 ---
-title: "Undrained capacity of circular foundations under combined horizontal and torsional loads"
+title: "Field monitoring of the ground vibrations adjacent to an onshore wind turbine foundation"
 authors:
 - admin
+- Jesús González-Hurtado
 - Tim Newson
-date: "2019-12-02"
-doi: "https://doi.org/10.1680/jgele.19.00016"
+- Hanping Hong
+- Melanie Postman
+- Sheri Molnar
+date: "2020-05-02"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-12-02"
+publishDate: "2020-05-02"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +20,7 @@ publishDate: "2019-12-02"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Géotechnique Letters*"
+publication: "*Canadian Geotechnical Journal*"
 publication_short: ""
 
 abstract: 
@@ -26,7 +30,7 @@ abstract:
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
