@@ -87,4 +87,9 @@ date_format = "2006"
   date_start = "2010-09-01"
   date_end = ""
   description = ""
+
+| Command           | Description                    |
+| ------------------| ------------------------------ |
+| `hugo`            | Build your website.            |
+| `hugo serve -w`   | View your website.             |
 +++
