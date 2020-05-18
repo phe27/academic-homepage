@@ -4,11 +4,11 @@ authors:
 - Jesús González-Hurtado
 - admin
 - Tim Newson
-date: "2019-06"
+date: "2019-06-05"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-06"
+publishDate: "2019-06-05"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

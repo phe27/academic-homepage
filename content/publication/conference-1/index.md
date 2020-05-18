@@ -3,11 +3,11 @@ title: "Undrained capacity of circular shallow foundations under combined VHMT l
 authors:
 - admin
 - Tim Newson
-date: "2019-11"
+date: "2019-11-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-11"
+publishDate: "2019-11-15"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
