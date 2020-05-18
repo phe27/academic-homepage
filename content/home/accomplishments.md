@@ -18,8 +18,73 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-| Command           | Description                    |
-| ------------------| ------------------------------ |
-| `hugo`            | Build your website.            |
-| `hugo serve -w`   | View your website.             |
+[[item]]
+  organization = "China Scholarship Council"
+  organization_url = ""
+  title = "Chinese Government Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "China University of Mining and Technology"
+  organization_url = ""
+  title = "Outstanding Master Innovation Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-09-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "China University of Mining and Technology"
+  organization_url = ""
+  title = "National Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "China University of Mining and Technology"
+  organization_url = ""
+  title = "Excellent Thesis of Jiangsu Province"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "China University of Mining and Technology"
+  organization_url = ""
+  title = "National Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "China University of Mining and Technology"
+  organization_url = ""
+  title = "National Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2011-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "China University of Mining and Technology"
+  organization_url = ""
+  title = "National Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2010-09-01"
+  date_end = ""
+  description = ""
 +++
