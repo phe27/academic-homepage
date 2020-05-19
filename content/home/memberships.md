@@ -13,7 +13,7 @@ subtitle = ""
 
 | Command           | Description                    |
 | ------------------| ------------------------------ |
-| `hugo`            | Build your website.            |
-| `hugo serve -w`   | View your website.             |
+| hugo              | Build your website.            |
+| hugo serve -w     | View your website.             |
 
 +++
