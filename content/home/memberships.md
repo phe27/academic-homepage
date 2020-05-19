@@ -10,6 +10,6 @@ subtitle = ""
 +++
 
 
-- Canadian Geotechnical Society (CGS)
-- American Society of Civil Engineers (ASCE)
-- International Society for Soil Mechanics & Geotechnical Engineering (ISSMGE)
+- **Canadian Geotechnical Society (CGS)**
+- **American Society of Civil Engineers (ASCE)**
+- **International Society for Soil Mechanics & Geotechnical Engineering (ISSMGE)**
