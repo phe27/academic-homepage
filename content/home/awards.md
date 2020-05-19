@@ -10,5 +10,7 @@ subtitle = ""
 +++
 
 
-| Chinese Government Scholarship, China Scholarship Council              | 2016            |
-| Outstanding Master Innovation Scholarship, China University of Mining & Technology     | 2015             |
+| Name           | Year                    |
+| ------------------| ------------------------------ |
+| Chinese Government Scholarship (China Scholarship Council)             | 2016            |
+| Outstanding Master Innovation Scholarship (China University of Mining & Technology)    | 2015             |
