@@ -29,5 +29,10 @@ subtitle = ""
 | National Scholarship (China University of Mining and Technology)    					 | 2010 |
 
 
-* Chinese Government Scholarship (China Scholarship Council)							   2016
-* Outstanding Master Innovation Scholarship (China University of Mining and Technology)	   2015
+* Chinese Government Scholarship (China Scholarship Council),							   2016
+* Outstanding Master Innovation Scholarship (China University of Mining and Technology),   2015
+* National Scholarship (China University of Mining and Technology),						   2014
+* Excellent Thesis of Jiangsu Province (China University of Mining and Technology)		   2013
+* National Scholarship (China University of Mining and Technology)						   2012
+* National Scholarship (China University of Mining and Technology)						   2011
+* National Scholarship (China University of Mining and Technology)						   2010
