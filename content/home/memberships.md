@@ -7,7 +7,7 @@ weight = 50  # Order that this section will appear.
 title = "Memberships"
 subtitle = ""
 
-"""
+table = """
 abc
 """
 +++
