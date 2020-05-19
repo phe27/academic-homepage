@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Memberships"
-  url = "#memberships"
+  url = "#posts"
   weight = 60
 
 [[main]]

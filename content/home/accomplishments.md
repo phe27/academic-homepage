@@ -16,6 +16,10 @@ date_format = "2006"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
 #   `title`, `organization` and `date_start` are the required parameters.
