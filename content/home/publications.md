@@ -63,7 +63,6 @@ subtitle = ""
      * **He, P.**, & Newson, T. (2019). Undrained capacity of circular foundations under combined horizontal and torsional loads. Géotechnique Letters, 1-5. https://doi.org/10.1680/jgele.19.00016.
      * **He, P.**, González-Hurtado, J., Newson, T., Hong, H., Postman, M., & Molnar, S. Field monitoring of the ground vibrations adjacent to an onshore wind turbine foundation. Canadian Geotechnical Journal. (Accepted)
      * **He, P.**, & Newson, T. Undrained capacity of circular shallow foundations on two-layer clays under combined VHMT loading. Canadian Geotechnical Journal.     
-     
 2. **Conference papers**
      * **He, P.**, & Newson T. (2019). Undrained capacity of circular shallow foundations under combined VHMT loading. In The 16th Pan-American Conference on Soil Mechanics and Geotechnical Engineering. International Society for Soil Mechanics and Geotechnical Engineering, Cancun, Mexico. (Presentation delivered)
      * González-Hurtado J., **He, P.**, & Newson, T. (2019). The effects of stiffness anisotropy on elastic solutions of circular foundations under complex loading. In The 2nd International Conference on Natural Hazards and Infrastructure. The Innovation Center on Natural Hazards and Infrastructure, Chania, Greece.
