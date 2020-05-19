@@ -10,7 +10,5 @@ subtitle = ""
 +++
 
 
-| Command           | Description                    |
-| ------------------| ------------------------------ |
-| hugo              | Build your website.            |
-| hugo serve -w     | View your website.             |
+| Chinese Government Scholarship, China Scholarship Council              | 2016            |
+| Outstanding Master Innovation Scholarship, China University of Mining & Technology     | 2015             |
