@@ -21,16 +21,28 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "tools"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Finite element analysis"
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "luggage-cart"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Laboratory tests"
+  description = ""
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Interpretation and statistical analysis of field data"
+  description = ""
+
+[[feature]]
+  icon = "chalkboard"
+  icon_pack = "fas"
+  name = "Probability and reliability analysis"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
