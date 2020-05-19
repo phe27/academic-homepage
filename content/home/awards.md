@@ -9,7 +9,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -19,9 +19,9 @@ subtitle = ""
 
 
 * **Chinese Government Scholarship** (China Scholarship Council),							   2016
-* **Outstanding Master Innovation Scholarship** (China University of Mining and Technology),   2015
-* **National Scholarship** (China University of Mining and Technology),						   2014
-* **Excellent Thesis of Jiangsu Province** (China University of Mining and Technology)		   2013
-* **National Scholarship** (China University of Mining and Technology)						   2012
-* **National Scholarship** (China University of Mining and Technology)						   2011
-* **National Scholarship** (China University of Mining and Technology)						   2010
+* **Outstanding Master Innovation Scholarship** (China University of Mining & Technology),   2015
+* **National Scholarship** (China University of Mining & Technology),						   2014
+* **Excellent Thesis of Jiangsu Province** (China University of Mining & Technology)		   2013
+* **National Scholarship** (China University of Mining & Technology)						   2012
+* **National Scholarship** (China University of Mining & Technology)						   2011
+* **National Scholarship** (China University of Mining & Technology)						   2010
