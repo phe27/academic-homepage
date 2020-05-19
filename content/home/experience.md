@@ -8,6 +8,10 @@ weight = 30  # Order that this section will appear.
 title = "Research Experience"
 subtitle = ""
 
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
