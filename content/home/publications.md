@@ -55,9 +55,6 @@ subtitle = ""
  css_class = ""
 +++
 
-# {{% alert note %}}
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
 
 **1. Journal papers**
      - He, P., & Newson, T. (2019). Undrained capacity of circular foundations under combined horizontal and torsional loads. Géotechnique Letters, 1-5. https://doi.org/10.1680/jgele.19.00016.
