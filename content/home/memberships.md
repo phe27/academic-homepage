@@ -7,6 +7,10 @@ weight = 70  # Order that this section will appear.
 title = "Memberships"
 subtitle = ""
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["30px", "0", "30px", "0"]
+
 +++
 
 
