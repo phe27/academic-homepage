@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "ABAQUS, MATLAB, Python & AutoCAD"
+  icon = "laptop"
   icon_pack = "fas"
-  name = "laptop"
+  name = "ABAQUS, MATLAB, Python & AutoCAD"
   description = ""
   
 [[feature]]
