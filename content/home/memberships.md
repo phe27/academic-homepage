@@ -11,6 +11,9 @@ subtitle = ""
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
-
+| Command           | Description                    |
+| ------------------| ------------------------------ |
+| `hugo`            | Build your website.            |
+| `hugo serve -w`   | View your website.             |
 
 +++
