@@ -27,6 +27,9 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 2
   
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -47,10 +50,6 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-  
 [advanced]
  # Custom CSS. 
  css_style = ""
