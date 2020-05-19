@@ -7,6 +7,10 @@ weight = 50  # Order that this section will appear.
 title = "Awards"
 subtitle = ""
 
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["30px", "0", "30px", "0"]
