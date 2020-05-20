@@ -40,4 +40,3 @@ subtitle = ""
     1. <span style="font-size:14pt;">Conducted dynamic triaxial and resonant column tests on thawing soils.</span>
     2. <span style="font-size:14pt;">Established analytical models for characterizing wave propagations in surrounding soils induced by subway operation.</span>
     3. <span style="font-size:14pt;">Created numerical models for an operating subway using finite element analysis.</span>
-
