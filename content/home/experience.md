@@ -24,11 +24,9 @@ subtitle = ""
 >    - <span style="font-size:14pt;">Analyzed VHMT failure envelops for different types of soils (e.g. clay & sand) and foundations (e.g. surface and embedded) under combined VHMT loading using finite element analysis.</span>
 >    - <span style="font-size:14pt;">For undrained soil conditions, the effects of soil strength heterogeneity, foundation embedment and surficial crust (i.e. crust shear strength and thickness) have been investigated. For drained soil conditions, cohesive-frictional soils have been considered.</span>
 >    - <span style="font-size:14pt;">Developed 4-D analytical expressions for the VHMT failure envelope of circular foundations that can aid the assessment of the ultimate limit states of shallow circular foundations under complex VHMT loading conditions.</span>
-
-> * <span style="color:#6495ED; font-size:16pt;">*Coupled foundation stiffness for circular foundations*</span>
+> * <span style="color:#6495ED; font-size:16pt;">*Coupled foundation stiffness for circular foundations*</span><br>
 >    - <span style="font-size:14pt;">Studied the effects of soil stiffness anisotropy, stiffness heterogeneity and foundation embedment on the stiffness of circular foundations using finite element analysis.</span>
 >    - <span style="font-size:14pt;">Proposed analytical foundation stiffnesses considering soil stiffness anisotropy, stiffness heterogeneity and foundation embedment.</span>
-
 > * <span style="color:#6495ED; font-size:16pt;">*Industry-university collaboration project*</span>
 >    - <span style="font-size:14pt;">Conducted field tests to measure wind and wind turbine foundation vibrations in a wind farm to characterize the wind-structure-foundation interaction.</span>
 >    - <span style="font-size:14pt;">Developed analytical models to estimate the remaining fatigue life of wind turbines using reliability analyses.</span>
