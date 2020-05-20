@@ -16,7 +16,7 @@ subtitle = ""
   padding = ["20px", "0", "20px", "0"]
 
 +++
-
+&nbsp;
 
 <span style="font-size:18pt;">**Ph.D. in Geotechnical Engineering, [Western University](https://www.eng.uwo.ca/grc/), Sep. 2016 ~ Aug. 2020**</span>
 
@@ -28,7 +28,7 @@ subtitle = ""
 * <span style="color:#6495ED; font-size:16pt;">*Coupled foundation stiffness for circular foundations*</span>
     1. <span style="font-size:14pt;">Studied the effects of soil stiffness anisotropy, stiffness heterogeneity and foundation embedment on the stiffness of circular foundations using finite element analysis.</span>
     2. <span style="font-size:14pt;">Proposed analytical foundation stiffnesses considering soil stiffness anisotropy, stiffness heterogeneity and foundation embedment.</span>
-
+&nbsp;
 
 <span style="font-size:18pt;">**M.Eng. in Geotechnical Engineering, [China University of Mining & Technology](http://www.cumt.edu.cn/), Sep. 2013 ~ Jun. 2016**</span>
 
