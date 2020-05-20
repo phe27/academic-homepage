@@ -17,7 +17,6 @@ subtitle = ""
 
 +++
 &nbsp;
-
 <span style="font-size:18pt;">**Ph.D. in Geotechnical Engineering, [Western University](https://www.eng.uwo.ca/grc/), Sep. 2016 ~ Aug. 2020**</span>
 
 > * <span style="color:#6495ED; font-size:16pt;">*VHMT failure envelopes for circular foundations with a zero-tension interface*</span>

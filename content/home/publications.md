@@ -57,9 +57,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+&nbsp;
 
-
-1. **Journal papers**
+1. <span style="font-size:18pt;">**Journal papers**</span>
      * **He, P.**, & Newson, T. (2019). Undrained capacity of circular foundations under combined horizontal and torsional loads. Géotechnique Letters, 1-5. https://doi.org/10.1680/jgele.19.00016.
      * **He, P.**, González-Hurtado, J., Newson, T., Hong, H., Postman, M., & Molnar, S. (2020). Field monitoring of the ground vibrations adjacent to an onshore wind turbine foundation. Canadian Geotechnical Journal. (Accepted)
      * **He, P.**, & Newson, T. Undrained capacity of circular shallow foundations on two-layer clays under combined VHMT loading. Canadian Geotechnical Journal. (Under review)
