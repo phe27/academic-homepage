@@ -23,6 +23,7 @@ bio: My research interests include soil-structure interaction, offshore foundati
 interests:
 - Offshore foundations
 - Soil-structure interaction
+- Numerical modelling
 - Reliability-based design of geotechnical structures
 
 education:
