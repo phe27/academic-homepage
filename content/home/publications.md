@@ -67,7 +67,7 @@ subtitle = ""
      * <span style="font-size:14pt;">Cui, Z., **He, P.**, & Yang, W. (2014). Mechanical properties of a silty clay subjected to freezing-thawing. Cold Regions Science and Technology, 98, 26-34. https://doi.org/10.1016/j.coldregions.2013.10.009.</span> \
 &nbsp;
 
-2. **Conference papers**
+2. <span style="font-size:18pt;">**Conference papers**</span>
      * <span style="font-size:14pt;">**He, P.**, & Newson T. (2019). Undrained capacity of circular shallow foundations under combined VHMT loading. In The 16th Pan-American Conference on Soil Mechanics and Geotechnical Engineering. International Society for Soil Mechanics and Geotechnical Engineering, Cancun, Mexico. (Presentation delivered)</span>
      * <span style="font-size:14pt;">González-Hurtado J., **He, P.**, & Newson, T. (2019). The effects of stiffness anisotropy on elastic solutions of circular foundations under complex loading. In The 2nd International Conference on Natural Hazards and Infrastructure. The Innovation Center on Natural Hazards and Infrastructure, Chania, Greece.</span>
      * <span style="font-size:14pt;">González-Hurtado J., **He, P.**, Newson, T., Hong, H., Postman, M., & Molnar, S. (2017). Field monitoring and analysis of an onshore wind turbine shallow foundation system. In The 70th Canadian Geotechnical Conference. Canadian Geotechnical Society, Ottawa, Canada.</span>
