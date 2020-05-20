@@ -61,10 +61,10 @@ subtitle = ""
 
 1. <span style="font-size:18pt;">**Journal papers**</span>
      * <span style="font-size:14pt;">**He, P.**, & Newson, T. (2019). Undrained capacity of circular foundations under combined horizontal and torsional loads. Géotechnique Letters, 1-5. https://doi.org/10.1680/jgele.19.00016.</span>  {{% staticref "files/journal-1.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}}{{% /staticref %}}
-     * <span style="font-size:14pt;">**He, P.**, González-Hurtado, J., Newson, T., Hong, H., Postman, M., & Molnar, S. (2020). Field monitoring of the ground vibrations adjacent to an onshore wind turbine foundation. Canadian Geotechnical Journal. (Accepted)
-     * <span style="font-size:14pt;">**He, P.**, & Newson, T. Undrained capacity of circular shallow foundations on two-layer clays under combined VHMT loading. Canadian Geotechnical Journal. (Under review)</span>
-     * <span style="font-size:14pt;">**He, P.**, & Cui, Z. (2015). Dynamic response of a thawing soil around the tunnel under the vibration load of subway. Environmental Earth Sciences, 73(5), 2473-2482. https://doi.org/10.1007/s12665-014-3596-8.</span>
-     * <span style="font-size:14pt;">Cui, Z., **He, P.**, & Yang, W. (2014). Mechanical properties of a silty clay subjected to freezing-thawing. Cold Regions Science and Technology, 98, 26-34. https://doi.org/10.1016/j.coldregions.2013.10.009.</span> \
+     * <span style="font-size:14pt;">**He, P.**, González-Hurtado, J., Newson, T., Hong, H., Postman, M., & Molnar, S. (2020). Field monitoring of the ground vibrations adjacent to an onshore wind turbine foundation. Canadian Geotechnical Journal. (Accepted)</span>  {{% staticref "files/journal-1.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}}{{% /staticref %}}
+     * <span style="font-size:14pt;">**He, P.**, & Newson, T. Undrained capacity of circular shallow foundations on two-layer clays under combined VHMT loading. Canadian Geotechnical Journal. (Under review)</span>  {{% staticref "files/journal-1.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}}{{% /staticref %}}
+     * <span style="font-size:14pt;">**He, P.**, & Cui, Z. (2015). Dynamic response of a thawing soil around the tunnel under the vibration load of subway. Environmental Earth Sciences, 73(5), 2473-2482. https://doi.org/10.1007/s12665-014-3596-8.</span>  {{% staticref "files/journal-1.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}}{{% /staticref %}}
+     * <span style="font-size:14pt;">Cui, Z., **He, P.**, & Yang, W. (2014). Mechanical properties of a silty clay subjected to freezing-thawing. Cold Regions Science and Technology, 98, 26-34. https://doi.org/10.1016/j.coldregions.2013.10.009.</span>  {{% staticref "files/journal-1.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}}{{% /staticref %}} \
 &nbsp;
 
 2. <span style="font-size:18pt;">**Conference papers**</span>
