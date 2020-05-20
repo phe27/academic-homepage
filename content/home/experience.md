@@ -19,6 +19,7 @@ subtitle = ""
 
 
 **Ph.D. in Geotechnical Engineering, [Western University](https://www.eng.uwo.ca/grc/), Sep. 2016 ~ Aug. 2020**
+<span style="color:blue">some *blue* text</span>
 
 * **VHMT failure envelopes for circular foundations with a zero-tension interface**
     1. Analyzed VHMT failure envelops for different types of soils (e.g. clay & sand) and foundations (e.g. surface and embedded) under combined VHMT loading using finite element analysis.
