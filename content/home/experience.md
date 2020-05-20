@@ -18,25 +18,25 @@ subtitle = ""
 +++
 
 
-**Ph.D. in Geotechnical Engineering, [Western University](https://www.eng.uwo.ca/grc/), Sep. 2016 ~ Aug. 2020**
+<span style="font-size:18pt;">**Ph.D. in Geotechnical Engineering, [Western University](https://www.eng.uwo.ca/grc/), Sep. 2016 ~ Aug. 2020**</span>
 
 * <span style="color:#6495ED; font-size:16pt;">*VHMT failure envelopes for circular foundations with a zero-tension interface*</span>
     1. <span style="font-size:14pt;">Analyzed VHMT failure envelops for different types of soils (e.g. clay & sand) and foundations (e.g. surface and embedded) under combined VHMT loading using finite element analysis.</span>
     2. For undrained soil conditions, the effects of soil strength heterogeneity, foundation embedment and surficial crust (i.e. crust shear strength and thickness) have been investigated. For drained soil conditions, cohesive-frictional soils have been considered.
     3. Developed 4-D analytical expressions for the VHMT failure envelope of circular foundations that can aid the assessment of the ultimate limit states of shallow circular foundations under complex VHMT loading conditions.
 
-* <span style="color:blue">Coupled foundation stiffness for circular foundations</span>
+* <span style="color:#6495ED; font-size:16pt;">*Coupled foundation stiffness for circular foundations*</span>
     1. Studied the effects of soil stiffness anisotropy, stiffness heterogeneity and foundation embedment on the stiffness of circular foundations using finite element analysis.
     2. Proposed analytical foundation stiffnesses considering soil stiffness anisotropy, stiffness heterogeneity and foundation embedment.
 
 
-**M.Eng. in Geotechnical Engineering, [China University of Mining & Technology](http://www.cumt.edu.cn/), Sep. 2013 ~ Jun. 2016**
+<span style="font-size:18pt;">**M.Eng. in Geotechnical Engineering, [China University of Mining & Technology](http://www.cumt.edu.cn/), Sep. 2013 ~ Jun. 2016**</span>
 
-* <span style="color:blue">Industry-university collaboration project</span>
+* <span style="color:#6495ED; font-size:16pt;">*Industry-university collaboration project*</span>
     1. Conducted field tests to measure wind and wind turbine foundation vibrations in a wind farm to characterize the wind-structure-foundation interaction.
     2. Developed analytical models to estimate the remaining fatigue life of wind turbines using reliability analyses.
 
-* <span style="color:blue">Dynamic properties of thawing soils around shield tunnels and wave propagations in soils caused by subway operation</span>
+* <span style="color:#6495ED; font-size:16pt;">*Dynamic properties of thawing soils around shield tunnels and wave propagations in soils caused by subway operation*</span>
     1. Conducted dynamic triaxial and resonant column tests on thawing soils.
     2. Established analytical models for characterizing wave propagations in surrounding soils induced by subway operation.
     3. Created numerical models for an operating subway using finite element analysis.
