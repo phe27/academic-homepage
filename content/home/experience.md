@@ -17,7 +17,7 @@ subtitle = ""
 
 +++
 
-Ph.D. in Geotechnical Engineering, Western University, Sep. 2016 ~ Aug. 2020
+Ph.D. in Geotechnical Engineering, [Western University](https://www.eng.uwo.ca/grc/), Sep. 2016 ~ Aug. 2020
 
 * **VHMT failure envelopes for circular foundations with a zero-tension interface**
     1. Analyzed VHMT failure envelops for different types of soils (e.g. clay & sand) and foundations (e.g. surface and embedded) under combined VHMT loading using finite element analysis.
@@ -28,7 +28,7 @@ Ph.D. in Geotechnical Engineering, Western University, Sep. 2016 ~ Aug. 2020
     2. Proposed analytical foundation stiffnesses considering soil stiffness anisotropy, stiffness heterogeneity and foundation embedment.
 
 
-M.Eng. in Geotechnical Engineering, China University of Mining & Technology, Sep. 2013 ~ Jun. 2016
+M.Eng. in Geotechnical Engineering, [China University of Mining & Technology](http://www.cumt.edu.cn/), Sep. 2013 ~ Jun. 2016
 
 * **Industry-university collaboration project**
     1. Conducted field tests to measure wind and wind turbine foundation vibrations in a wind farm to characterize the wind-structure-foundation interaction.
