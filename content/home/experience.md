@@ -32,6 +32,7 @@ subtitle = ""
     2. <span style="font-size:14pt;">Developed analytical models to estimate the remaining fatigue life of wind turbines using reliability analyses.</span>
 &nbsp;
 
+
 <span style="font-size:18pt;">**M.Eng. in Geotechnical Engineering, [China University of Mining & Technology](http://www.cumt.edu.cn/), Sep. 2013 ~ Jun. 2016**</span>
 
 * <span style="color:#6495ED; font-size:16pt;">*Dynamic properties of thawing soils around shield tunnels and wave propagations in soils caused by subway operation*</span>
