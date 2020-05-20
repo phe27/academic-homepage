@@ -18,7 +18,7 @@ subtitle = ""
 +++
 &nbsp;
 
-<span style="font-size:18pt;">**Ph.D. in Geotechnical Engineering, [Western University](https://www.eng.uwo.ca/grc/), Sep. 2016 ~ Aug. 2020**</span>
+<span style="font-size:18pt;">**Ph.D. in Geotechnical Engineering, [Western University](https://www.eng.uwo.ca/grc/) (Sep. 2016 ~ Aug. 2020)**</span>
 
 > * <span style="color:#6495ED; font-size:16pt;">*VHMT failure envelopes for circular foundations with a zero-tension interface*</span>
 >    1. <span style="font-size:14pt;">Analyzed VHMT failure envelops for different types of soils (e.g. clay & sand) and foundations (e.g. surface and embedded) under combined VHMT loading using finite element analysis.</span>
@@ -34,7 +34,7 @@ subtitle = ""
 &nbsp;
 
 
-<span style="font-size:18pt;">**M.Eng. in Geotechnical Engineering, [China University of Mining & Technology](http://www.cumt.edu.cn/), Sep. 2013 ~ Jun. 2016**</span>
+<span style="font-size:18pt;">**M.Eng. in Geotechnical Engineering, [China University of Mining & Technology](http://www.cumt.edu.cn/) (Sep. 2013 ~ Jun. 2016)**</span>
 
 > * <span style="color:#6495ED; font-size:16pt;">*Dynamic properties of thawing soils around shield tunnels and wave propagations in soils caused by subway operation*</span>
 >    1. <span style="font-size:14pt;">Conducted dynamic triaxial and resonant column tests on thawing soils.</span>
