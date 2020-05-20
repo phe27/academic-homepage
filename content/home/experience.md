@@ -20,7 +20,7 @@ subtitle = ""
 
 **Ph.D. in Geotechnical Engineering, [Western University](https://www.eng.uwo.ca/grc/), Sep. 2016 ~ Aug. 2020**
 
-* <span style="color:#48D1CC; font-size:12pt;">VHMT failure envelopes for circular foundations with a zero-tension interface</span>
+* <span style="color:#87CEFA; font-size:14pt;">VHMT failure envelopes for circular foundations with a zero-tension interface</span>
     1. Analyzed VHMT failure envelops for different types of soils (e.g. clay & sand) and foundations (e.g. surface and embedded) under combined VHMT loading using finite element analysis.
     2. For undrained soil conditions, the effects of soil strength heterogeneity, foundation embedment and surficial crust (i.e. crust shear strength and thickness) have been investigated. For drained soil conditions, cohesive-frictional soils have been considered.
     3. Developed 4-D analytical expressions for the VHMT failure envelope of circular foundations that can aid the assessment of the ultimate limit states of shallow circular foundations under complex VHMT loading conditions.
