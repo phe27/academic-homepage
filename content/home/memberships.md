@@ -16,4 +16,4 @@ subtitle = ""
 
 - Canadian Geotechnical Society ([CGS](http://www.cgs.ca/index.php?lang=en))
 - American Society of Civil Engineers ([ASCE](https://www.asce.org/))
-- International Society for Soil Mechanics & Geotechnical Engineering ([ISSMGE](https://www.issmge.org/))
+- International Society for Soil Mechanics and Geotechnical Engineering ([ISSMGE](https://www.issmge.org/))
