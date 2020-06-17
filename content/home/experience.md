@@ -27,7 +27,7 @@ subtitle = ""
 > * <span style="color:#6495ED; font-size:16pt;">*Coupled foundation stiffness for circular foundations*</span>
 >    - <span style="font-size:14pt;">Studied the effects of soil stiffness anisotropy, stiffness heterogeneity and foundation embedment on the stiffness of circular foundations using finite element analysis.</span>
 >    - <span style="font-size:14pt;">Proposed analytical foundation stiffnesses considering soil stiffness anisotropy, stiffness heterogeneity and foundation embedment.</span>
-> * <span style="color:#6495ED; font-size:16pt;">*Industry-university collaboration project*</span>
+> * <span style="color:#6495ED; font-size:16pt;">*Joint industry research project*</span>
 >    - <span style="font-size:14pt;">Conducted field tests to measure wind and wind turbine foundation vibrations in a wind farm to characterize the wind-structure-foundation interaction.</span>
 >    - <span style="font-size:14pt;">Developed analytical models to estimate the remaining fatigue life of wind turbines using reliability analyses.</span>
 &nbsp;
