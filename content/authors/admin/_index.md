@@ -29,13 +29,13 @@ interests:
 education:
   courses:
   - course: Ph.D. in Geotechnical Engineering
-    institution: *[Western University](https://www.eng.uwo.ca/grc/)*
+    institution: [Western University](https://www.eng.uwo.ca/grc/)
     year: 2020
   - course: M.Eng. in Geotechnical Engineering
-    institution: *[China University of Mining and Technology](https://www.cumt.edu.cn/)*
+    institution: [China University of Mining and Technology](https://www.cumt.edu.cn/)
     year: 2016
   - course: B.Eng. in Civil Engineering
-    institution: *[China University of Mining and Technology](https://www.cumt.edu.cn/)*
+    institution: [China University of Mining and Technology](https://www.cumt.edu.cn/)
     year: 2013
 
 # Social/Academic Networking
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. in Geotechnical Engineering at Western University. My current research include offshore the ultimate limit state (ULS) and serviceability limit state (SLS) design of onshore and offshore foundations. My research interests also include statistical interpretation of geotechnical data and reliability-based design of geotechnical structures.
+I am a Ph.D. in Geotechnical Engineering at Western University. My current research include the ultimate limit state (ULS) and serviceability limit state (SLS) design of onshore and offshore foundations using finite element analyses. My research interests also include statistical interpretation of geotechnical data and reliability-based design of geotechnical structures.
