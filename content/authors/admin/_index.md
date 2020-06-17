@@ -18,24 +18,24 @@ organizations:
   url: "https://www.eng.uwo.ca/grc/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include soil-structure interaction, offshore foundations and reliability-based design of geotechnical structures.
+bio: My research interests include numerical modelling, offshore foundations, soil-structure interaction and reliability-based design of geotechnical structures.
 
 interests:
 - Offshore foundations
+- Numerical modelling in Geotechnical Engineering
 - Soil-structure interaction
-- Numerical modelling
 - Reliability-based design of geotechnical structures
 
 education:
   courses:
   - course: Ph.D. in Geotechnical Engineering
-    institution: Western University
+    institution: [Western University](https://www.eng.uwo.ca/grc/)
     year: 2020
   - course: M.Eng. in Geotechnical Engineering
-    institution: China University of Mining and Technology
+    institution: [China University of Mining and Technology](https://www.cumt.edu.cn/)
     year: 2016
   - course: B.Eng. in Civil Engineering
-    institution: China University of Mining and Technology
+    institution: [China University of Mining and Technology](https://www.cumt.edu.cn/)
     year: 2013
 
 # Social/Academic Networking
