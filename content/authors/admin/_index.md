@@ -29,13 +29,13 @@ interests:
 education:
   courses:
   - course: Ph.D. in Geotechnical Engineering
-    institution: <span>[Western University](https://www.eng.uwo.ca/grc/)</span>
+    institution: *[Western University](https://www.eng.uwo.ca/grc/)*
     year: 2020
   - course: M.Eng. in Geotechnical Engineering
-    institution: <span>[China University of Mining and Technology](https://www.cumt.edu.cn/)</span>
+    institution: *[China University of Mining and Technology](https://www.cumt.edu.cn/)*
     year: 2016
   - course: B.Eng. in Civil Engineering
-    institution: <span>[China University of Mining and Technology](https://www.cumt.edu.cn/)</span>
+    institution: *[China University of Mining and Technology](https://www.cumt.edu.cn/)*
     year: 2013
 
 # Social/Academic Networking
