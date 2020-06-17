@@ -20,6 +20,6 @@ subtitle = ""
 
 * ABAQUS, MATLAB, Python and AutoCAD
 * Finite element analysis
-* Laboratory tests
+* Field and laboratory testing
 * Interpretation and statistical analysis of field data
 * Probability and reliability analysis
