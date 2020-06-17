@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. in Geotechnical Engineering at Western University. My current research include the ultimate limit state (ULS) and serviceability limit state (SLS) design of onshore and offshore foundations using finite element analyses. My research interests also include statistical interpretation of geotechnical data and reliability-based design of geotechnical structures.
+I am a Ph.D. candidate in Geotechnical Engineering at [Western University](https://www.eng.uwo.ca/grc/). My current research interests offshore geotechnics, numerical analysis in Geotechnical Engineering, statistical interpretation of geotechnical data and reliability-based design of geotechnical structures.
