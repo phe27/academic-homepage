@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in Geotechnical Engineering at [Western University](https://www.eng.uwo.ca/grc/). My current research interests offshore geotechnics, numerical analysis in Geotechnical Engineering, statistical interpretation of geotechnical data and reliability-based design of geotechnical structures.
+I am a Ph.D. candidate in Geotechnical Engineering at *[Western University](https://www.eng.uwo.ca/grc/)*. My current research interests offshore geotechnics, numerical analysis in Geotechnical Engineering, statistical interpretation of geotechnical data and reliability-based design of geotechnical structures.
