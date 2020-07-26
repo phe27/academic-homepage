@@ -75,3 +75,7 @@ subtitle = ""
 
 * <span style="font-size:18pt;">**书籍（章节）**</span>
      - <span style="font-size:14pt;">Cui, Z., Zhang, Z., Zhan Z., **He, P.**, Hou C., and Zhang Y. (2020). Dynamics of Freezing-Thawing Soil around Subway Shield Tunnels. Springer Singapore. Retrieved from https://doi.org/10.1007/978-981-15-4342-5.</span>
+&nbsp;
+
+* <span style="font-size:18pt;">**专利**</span>
+     - <span style="font-size:14pt;">Cui, Z., Zhang, Z., Zhan Z., **He, P.**, Hou C., and Zhang Y. (2020). Dynamics of Freezing-Thawing Soil around Subway Shield Tunnels. Springer Singapore. Retrieved from https://doi.org/10.1007/978-981-15-4342-5.</span>
