@@ -73,7 +73,7 @@ subtitle = ""
      - <span style="font-size:14pt;">González-Hurtado J., **He, P.**, Newson, T., Hong, H., Postman, M., and Molnar, S. (2017). Field monitoring and analysis of an onshore wind turbine shallow foundation system. *In Proceedings of the 70th Canadian Geotechnical Conference.* Canadian Geotechnical Society, Ottawa, Canada.</span>  {{% staticref "files/Field monitoring and analysis of an onshore wind turbine shallow foundation system _ conference.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}}{{% /staticref %}} \
 &nbsp;
 
-* <span style="font-size:18pt;">**书籍（章节）**</span>
+* <span style="font-size:18pt;">**书籍章节**</span>
      - <span style="font-size:14pt;">Cui, Z., Zhang, Z., Zhan Z., **He, P.**, Hou C., and Zhang Y. (2020). Dynamics of Freezing-Thawing Soil around Subway Shield Tunnels. Springer Singapore. Retrieved from https://doi.org/10.1007/978-981-15-4342-5.</span>
 &nbsp;
 
