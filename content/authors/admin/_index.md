@@ -18,7 +18,7 @@ organizations:
   url: "https://www.eng.uwo.ca/grc/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include numerical modelling, offshore foundations, soil-structure interaction and reliability-based design of geotechnical structures.
+bio: 
 
 interests:
 - Offshore foundations
