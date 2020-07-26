@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pengpeng HE
+title: 何鹏鹏
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. in Geotechnical Engineering
+role: Ph.D. 岩土工程
 
 # Organizations/Affiliations
 organizations:
