@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Research Experience"
+title = "科研经历"
 subtitle = ""
 
 [design]
@@ -18,7 +18,7 @@ subtitle = ""
 +++
 &nbsp;
 
-<span style="font-size:18pt;">**Ph.D. in Geotechnical Engineering, [Western University](https://www.eng.uwo.ca/grc/), Sep. 2016 ~ Aug. 2020**</span>
+<span style="font-size:18pt;">**博士，岩土工程，[Western University](https://www.eng.uwo.ca/grc/), 2016.09 ~ 2020.09**</span>
 
 > * <span style="color:#6495ED; font-size:16pt;">*VHMT failure envelopes for circular foundations with a zero-tension interface*</span>
 >    - <span style="font-size:14pt;">Analyzed VHMT failure envelops for different types of soils (e.g. clay & sand) and foundations (e.g. surface and embedded) under combined VHMT loading using finite element analysis (ABAQUS).</span>
@@ -34,7 +34,7 @@ subtitle = ""
 &nbsp;
 
 
-<span style="font-size:18pt;">**M.Eng. in Geotechnical Engineering, [China University of Mining & Technology](http://www.cumt.edu.cn/), Sep. 2013 ~ Jun. 2016**</span>
+<span style="font-size:18pt;">**硕士，岩土工程，[中国矿业大学](http://www.cumt.edu.cn/), 2013.09 ~ 2016.06**</span>
 
 > * <span style="color:#6495ED; font-size:16pt;">*Dynamic properties of thawing soils around shield tunnels and wave propagations in soils caused by subway operation*</span>
 >    - <span style="font-size:14pt;">Conducted dynamic triaxial and resonant column testing on thawing soils.</span>
