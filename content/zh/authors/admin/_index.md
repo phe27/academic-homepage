@@ -20,11 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include numerical modelling, offshore foundations, soil-structure interaction and reliability-based design of geotechnical structures.
 
-interests:
-- Offshore foundations
-- Numerical modelling in Geotechnical Engineering
-- Soil-structure interaction
-- Reliability-based design of geotechnical structures
+研究方向:
+- 海洋基础
+- 岩土数值模拟
+- 土-结构相互作用
+- 基于可靠性的岩土结构设计
 
 education:
   courses:
