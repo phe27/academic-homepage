@@ -28,14 +28,14 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Geotechnical Engineering
+  - course: 博士，岩土工程
     institution: Western University
     year: 2020
-  - course: M.Eng. in Geotechnical Engineering
-    institution: China University of Mining and Technology
+  - course: 硕士，岩土工程
+    institution: 中国矿业大学
     year: 2016
-  - course: B.Eng. in Civil Engineering
-    institution: China University of Mining and Technology
+  - course: 本科，土木工程
+    institution: 中国矿业大学
     year: 2013
 
 # Social/Academic Networking
