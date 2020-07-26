@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "获得奖励"
+  name = "荣誉奖励"
   url = "#awards"
   weight = 40
   

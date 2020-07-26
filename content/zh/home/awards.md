@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Awards"
+title = "荣誉奖励"
 subtitle = ""
 
 [design]
@@ -18,10 +18,9 @@ subtitle = ""
 +++
 
 
-* **Chinese Government Scholarship** (China Scholarship Council),							   2016
-* **Outstanding Master Innovation Scholarship** (China University of Mining and Technology),   2015
-* **National Scholarship** (China University of Mining and Technology),						   2014
-* **Excellent Thesis of Jiangsu Province** (China University of Mining and Technology),		   2013
-* **National Scholarship** (China University of Mining and Technology),						   2012
-* **National Scholarship** (China University of Mining and Technology),						   2011
-* **National Scholarship** (China University of Mining and Technology),						   2010
+* **优秀创新硕士**（中国矿业大学），  2015
+* **国家奖学金**（中国矿业大学），  2014
+* **江苏省优秀本科毕业论文**（中国矿业大学），  2013
+* **国家奖学金**（中国矿业大学），  2012
+* **国家奖学金**（中国矿业大学），  2011
+* **国家奖学金**（中国矿业大学），  2010
