@@ -78,4 +78,4 @@ subtitle = ""
 &nbsp;
 
 * <span style="font-size:18pt;">**专利**</span>
-     - <span style="font-size:14pt;">Cui, Z., Zhang, Z., Zhan Z., **He, P.**, Hou C., and Zhang Y. (2020). Dynamics of Freezing-Thawing Soil around Subway Shield Tunnels. Springer Singapore. Retrieved from https://doi.org/10.1007/978-981-15-4342-5.</span>
+     - <span style="font-size:14pt;">发明专利：崔振东，袁强，**何鹏鹏**，赵羚子，谭军，任世玺。一种碎石桩加固软土路基的土工离心模拟试验方法，专利号ZL201410153406.3，申请日期：2014.04.</span>
